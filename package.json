@@ -1,7 +1,15 @@
 {
   "name": "backend001",
   "version": "1.0.0",
-  "description": "basic backend application",
+  "description": "basic backend project",
+  "homepage": "https://github.com/Asmitumrao/backend01#readme",
+  "bugs": {
+    "url": "https://github.com/Asmitumrao/backend01/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asmitumrao/backend01.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
